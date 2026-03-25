@@ -1,5 +1,4 @@
 # Hello-world
-this is a simple hello world Javascript. It demonstrates the basics of running Javascript in the browser 
 hello-js/
 ├── index.html
 ├── index.js
@@ -30,7 +29,7 @@ console.log("Hello, World!");
 
 # README.md
 
-# Hello JavaScript Project
+# Hello JavaScript 
 
 ## Overview
 
